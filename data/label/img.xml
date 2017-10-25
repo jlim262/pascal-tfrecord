@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>img.jpeg</filename>
+	<path>C:\Users\seede\Documents\GitHub\pascal_voc_to_tfrecord\data\image\img.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1210</width>
+		<height>908</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>213</ymin>
+			<xmax>533</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>
